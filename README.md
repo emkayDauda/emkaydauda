@@ -11,13 +11,9 @@ My current role at Monovo, a health startup based in Utah as the Android team le
 
 Recently, I have become quite interested in the idea of building reliable and dependable systems so I have decided to pursue a career in Site Reliability Engineering. To this end, I have obtained the Cloud DevOps Nanodegree from Udacity and continue to work on a number of projects to polish my new skills.
 
-**Here's a quick summary about me**:
+I am interested in Mobile, DevOps or FrontEnd Engineering roles.
 
-- 🌱 I’m currently learning DevOps and looking to break into the SRE space.
-- 💼 Job interests: Mobile Engineer, DevOps Engineer, or FrontEnd Engineer.
-- 💡 Fun fact: I am interested in archery and photography. I am currently hopeless at both, but interested in them nonetheless 😅.
-- 😊 Pronouns: He/him
-
+Aaand for a quick fun fact about me? I am passionate about archery and photography. I am currently completely hopeless at both, but passionate about them nonetheless 😅.
 
 ---
 ## 🛠️ My favorite tools
