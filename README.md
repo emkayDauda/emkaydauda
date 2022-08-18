@@ -85,5 +85,5 @@ Aaand for a quick fun fact about me? I am passionate about archery and photograp
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=emkaydauda&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Maaruf's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emkaydauda&exclude_repo=circleci-demo-javascript-express&langs_count=8&layout=compact&hide_border=true&count_private=true&hide=Jupyter+notebook" alt="Maaruf's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=emkaydauda&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Maaruf's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emkaydauda&exclude_repo=-flutter-emkayDauda.github.io&langs_count=8&layout=compact&hide_border=true&count_private=true&hide=Jupyter+notebook" alt="Maaruf's GitHub stats" /> |
 | ------------- | ------------- |
