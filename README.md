@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emkayDauda&label=Profile%20views&color=323264&style=flat" alt="emkayDauda" /> </p>
 
 [![Website Badge](https://img.shields.io/badge/-maarufdauda.com-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://maarufdauda.com)](https://maarufdauda.com) [![Linkedin Badge](https://img.shields.io/badge/-maarufdauda-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maarufdauda)](https://www.linkedin.com/in/maarufdauda)
 
